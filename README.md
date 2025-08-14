@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahmah</h1>
-<h3 align="center">A Communications Engineer && Full Stack Development trainee</h3>
-<h3 align="center">growing my coding skills and building creative projects</h3>
+<h3 align="center">A Communications Engineer && Full Stack Development trainee,growing my coding skills and building creative projects✨</h3>
 
-<h3 align="left">
-  Connect with me:📧 [rahmah.12021@gmail.com](mailto:rahmah.12021@gmail.com)
-
-</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
