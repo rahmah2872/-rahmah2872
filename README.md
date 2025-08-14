@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rahmah</h1>
-<h3 align="center">Communications Engineer, training in Full Stack Development to expand my coding skills and build creative projects.</h3>
+<h3 align="center">Communications Engineer && Full Stack Development trainee, growing my coding skills and building creative projects</h3>
 
-<h3 align="left">Connect with me:rahmah.12021@gmail.com </h3>
+<h3 align="left">Connect with me: rahmah.12021@gmail.com </h3>
 <p align="left">
 </p>
 
