@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahmah</h1>
-<h3 align="center">A Communications Engineer && Full Stack Development trainee,growing my coding skills and building creative projects✨</h3>
+<h3 align="center">A Communications Engineer && Full Stack Development trainee, growing my coding skills and building creative projects✨</h3>
 
 
 
