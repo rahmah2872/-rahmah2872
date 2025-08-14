@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋 I'm Rahmah</h1>
-<h3 align="center">Communications Engineer && Full Stack Development trainee, growing my coding skills and building creative projects</h3>
+<h1 align="center">Hi 👋, I'm Rahmah</h1>
+<h3 align="center">A Communications Engineer && Full Stack Development trainee</h3>
+<h3 align="center">growing my coding skills and building creative projects</h3>
 
 <h3 align="left">
-  Connect with me: <a href="mailto:rahmah.12021@gmail.com">rahmah.12021@gmail.com</a>
+  Connect with me:📧 [rahmah.12021@gmail.com](mailto:rahmah.12021@gmail.com)
+
 </h3>
 
 
